@@ -1,0 +1,15 @@
+body{
+    background-size: cover;
+    background-image: url(../img/rapper.png);
+    background-position: center-top;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.error1{
+    padding-top: 50px;
+    font-size: 2.5rem;
+    color:blue;
+
+}
+

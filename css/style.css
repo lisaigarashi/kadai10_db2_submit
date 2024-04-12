@@ -1,0 +1,72 @@
+#home {
+    background-image: url(../img/music_norinori_woman.png);
+    background-size: cover;
+
+}
+.navbar-header{
+  text-align: center;
+  padding:30px;
+ 
+}
+
+header {
+    padding: 100px;
+    margin: 100px;
+    width: auto;
+}   
+
+h1 {
+    color: blue;
+    font-size: large;
+    text-align: center;
+    font-size: 50px;
+}
+form{
+  margin-bottom: 14px;
+  text-align: center;
+}
+  
+.name{
+    font-size: 1.125rem;
+    margin-bottom: 10px;
+    color: red;
+}
+.music{
+  font-size: 1.125rem;
+  margin-bottom: 10px;
+  color: yellow;
+
+
+}
+
+  input[type="text"]
+  textarea
+  {
+    padding:30px;
+    width: 150px;
+    height:5px;
+  }
+  
+  textarea{
+    width:100%;
+    max-width: 480px;
+    height:6rem;
+  }
+  
+  .genre{
+    color: yellow;
+  }
+  .artist{
+    color:purple;
+  }
+  button {
+    cursor: pointer;
+    margin-top: 30px;
+    padding: 15px 45px;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    font-weight: bold;
+    background-color: #166ab5;
+  
+  }

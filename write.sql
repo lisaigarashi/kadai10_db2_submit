@@ -1,0 +1,2 @@
+INSERT INTO request_table(id,name,countryarea,genre,text,indate)VALUES(NULL,'Anne','北米','Jazz','Back Street Boys I want it that way',sysdate())
+INSERT INTO request_table(id,name,countryarea,genre,text,indate)VALUES(NULL,'Miyabi','西欧','RB＆Soul','Something speacial',sysdate())
